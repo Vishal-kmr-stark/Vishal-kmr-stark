@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vishal-kmr-stark
-- 👀 I’m interested in Data analyst
+- 👀 language - pyhton
 - 🌱 I’m currently learning ...machine learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m here to explore...
 - 📫 How to reach me ...vishalkumar15337@gmail.com
 
 <!---
