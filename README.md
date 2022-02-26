@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vishal-kmr-stark
-- 👀 language - pyhton
+- 👀 language - python
 - 🌱 I’m currently learning ...machine learning
 - 💞️ I’m here to explore...
 - 📫 How to reach me ...vishalkumar15337@gmail.com
